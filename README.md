@@ -12,7 +12,7 @@ Install `pyenv`<br>
 install `python 3.10.12`through pyenv<br>
 
 ## 3. Install PIP 
-`$ sudo apt isntall python3-pip`<br>
+`$ sudo apt install python3-pip`<br>
 
 ## 4. Create and Activate a Virtual Environment
 `$ sudo apt install python3.10-venv`<br>
