@@ -4,8 +4,8 @@
 This install uses Ubuntu 22.04.3 LTS Jammy Jellyfish (minimal install) 
 
 ## 1. Update and Upgrade
-`$ sudo apt update`
-`$ sudo apt upgrade`
+`$ sudo apt update`  
+`$ sudo apt upgrade`  
 
 ## 2. Install Python 3.10.12 (Skip this step if this version is already in use) 
 Install `pyenv`
