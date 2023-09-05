@@ -21,7 +21,7 @@ install `python 3.10.12`through pyenv<br>
 
 ## 5. Download Conpot
 `$ sudo apt install git `<br>
-`$ cd ~/Downlad`<br>
+`$ cd ~/Download`<br>
 `$ git clone https://github.com/mushorg/conpot.git`<br>
 
 ## 6. Install Conpot
