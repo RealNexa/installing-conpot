@@ -3,8 +3,8 @@
 ## Automatic install
 `$ git clone https://github.com/RealNexa/installing-conpot.git`  
 Move the `conpot_install.sh` to folder which virtual environment should be created  
-`sudo chmod +x conpot_install.sh`  
-`source conpot_install.sh`  
+`$ sudo chmod +x conpot_install.sh`  
+`$ source conpot_install.sh`  
 
 
 ## Prerequisites
