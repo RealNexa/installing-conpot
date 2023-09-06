@@ -84,6 +84,5 @@ echo
 echo 
 echo --------------------------------------------------------------------------
 echo Conpot has now been installed. \(Hopefully\)
-echo To launch activate the virtual environment \(source .venv/bin/activate\)
-echo and type authbind conpot -f -t \<template_name\>
+echo type authbind conpot -f -t \<template_name\> to launch conpot with a custom template
 
