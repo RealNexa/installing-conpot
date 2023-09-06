@@ -1,5 +1,12 @@
 # Downloading and Installing Conpot 0.6.0
 
+## Automatic install
+`$ git clone https://github.com/RealNexa/installing-conpot.git`  
+Move the `conpot_install.sh` to folder which virtual environment should be created  
+`sudo chmod +x conpot_install.sh`  
+`source conpot_install.sh`  
+
+
 ## Prerequisites
 This install uses Ubuntu 22.04.3 LTS Jammy Jellyfish (minimal install) 
 
